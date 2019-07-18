@@ -1,0 +1,18 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Jul 18 13:47:23 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=7580 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: c:/Users/user/Desktop/ex/EXXX/micro_usb.dra
+\i (00:00:04) trapsize 57
+\i (00:00:04) trapsize 56
+\i (00:00:04) trapsize 57
+\i (00:00:04) trapsize 60
+\i (00:00:04) trapsize 60
+\i (00:00:05) generaledit 
+\i (00:00:09) new 
+\i (00:00:18) newdrawfillin "micro_usb.dra" "Package Symbol"
+\t (00:00:18)     Journal end - Thu Jul 18 13:47:39 2019

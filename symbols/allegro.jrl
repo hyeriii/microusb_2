@@ -1,0 +1,1782 @@
+\t (00:35:06) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:35:06)     Journal start - Thu Jul 18 11:56:37 2019
+\t (00:35:06)         Host=USER-PC User=user Pid=4680 CPUs=4
+\t (00:35:06) CmdLine= allegro.exe -p .
+\t (00:35:06) 
+\t (00:35:06) Starting new design...
+\i (00:35:06) trapsize 694
+\i (00:35:06) trapsize 694
+\i (00:35:06) layout wizard 
+\i (00:35:06) generaledit 
+\i (00:35:07) setwindow form.brd_wizard
+\i (00:35:07) FORM brd_wizard wiz_next  
+   (00:35:07) Loading cmds.cxt 
+   (00:35:07) Loading axlcore.cxt 
+\i (00:35:08) FORM brd_wizard wiz_next  
+\i (00:35:08) FORM brd_wizard wiz_next  
+\i (00:35:09) FORM brd_wizard wiz_next  
+\i (00:35:09) FORM brd_wizard wiz_next  
+\i (00:35:10) FORM brd_wizard wiz_next  
+\i (00:35:10) FORM brd_wizard wiz_next  
+\i (00:35:15) FORM brd_wizard wiz_back  
+\i (00:35:15) FORM brd_wizard wiz_back  
+\i (00:35:15) FORM brd_wizard wiz_back  
+\i (00:35:15) FORM brd_wizard wiz_back  
+\t (00:35:15) Starting new design...
+\i (00:35:16) setwindow pcb
+\i (00:35:16) trapsize 694
+\i (00:35:16) trapsize 694
+\i (00:35:16) setwindow form.brd_wizard
+\i (00:35:16) FORM brd_wizard wiz_next  
+\i (00:35:16) FORM brd_wizard wiz_next  
+\i (00:35:17) FORM brd_wizard wiz_next  
+\i (00:35:17) FORM brd_wizard wiz_next  
+\i (00:35:17) FORM brd_wizard wiz_next  
+\i (00:35:18) fillin confirm
+\i (00:35:19) FORM brd_wizard wiz_back  
+\i (00:35:19) FORM brd_wizard wiz_back  
+\i (00:35:20) FORM brd_wizard wiz_back  
+\i (00:35:20) FORM brd_wizard wiz_back  
+\i (00:35:20) FORM brd_wizard wiz_back  
+\t (00:35:20) Starting new design...
+\i (00:35:20) setwindow pcb
+\i (00:35:20) trapsize 694
+\i (00:35:20) trapsize 694
+\i (00:35:20) setwindow form.brd_wizard
+\i (00:35:20) FORM brd_wizard wiz_back  
+\i (00:35:20) FORM brd_wizard wiz_back  
+\i (00:35:20) FORM brd_wizard wiz_back  
+\i (00:35:25) FORM brd_wizard cancel  
+\i (00:35:25) setwindow pcb
+\i (00:35:25) generaledit 
+\i (00:35:28) new 
+\i (00:36:06) newdrawfillin "micro_usb.dra" "Package Symbol"
+\t (00:36:06) Starting new design...
+\i (00:36:06) trapsize 612
+\i (00:36:06) trapsize 632
+\i (00:36:06) trapsize 649
+\i (00:36:06) trapsize 611
+\i (00:36:06) trapsize 667
+\i (00:36:07) trapsize 667
+\i (00:36:07) generaledit 
+\i (00:36:13) prmed 
+\i (00:36:16) setwindow form.prmedit
+\i (00:36:16) FORM prmedit design  
+\i (00:36:22) FORM prmedit x -140.000 
+\i (00:36:25) FORM prmedit y -1000.000 
+\i (00:36:30) FORM prmedit width 297.000 
+\i (00:36:35) FORM prmedit height 210.000 
+\i (00:36:35) FORM prmedit display  
+\i (00:45:38) FORM prmedit design  
+\i (00:45:43) FORM prmedit done  
+\i (00:45:43) setwindow pcb
+\i (00:45:43) generaledit 
+\i (00:47:11) step pkg map 
+\i (00:47:13) setwindow form.pkgmap3d
+\i (00:47:13) FORM pkgmap3d done  
+\i (00:47:13) setwindow pcb
+\i (00:47:13) generaledit 
+\i (00:47:16) xsection 
+   (00:47:16) Loading floor.cxt 
+   (00:47:16) Loading skillExt.cxt 
+\i (00:47:17) setwindow form.fplyrstack
+\i (00:47:17) FORM fplyrstack cancel  
+\i (00:47:18) setwindow pcb
+\i (00:47:18) generaledit 
+\i (00:47:30) enved 
+\i (00:47:31) generaledit 
+\i (00:47:33) setwindow form.prfedit
+\i (00:47:33) FORM prfedit cancel  
+\i (00:48:08) setwindow pcb
+\i (00:48:08) define property 
+\i (00:48:08) generaledit 
+\i (00:48:20) define grid 
+\t (00:48:20) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:48:20) generaledit 
+\i (00:48:23) setwindow form.grid
+\i (00:48:23) FORM grid done  
+\t (00:48:25) last pick:  22.709 21.883
+\w (00:48:25) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:48:28) last pick:  0.166 30.954
+\w (00:48:28) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:49:43) setwindow pcb
+\i (00:49:43) define property 
+\i (00:49:43) generaledit 
+\i (00:49:48) prmed 
+\i (00:49:51) setwindow form.prmedit
+\i (00:49:51) FORM prmedit display  
+\i (00:50:04) FORM prmedit done  
+\i (00:50:04) setwindow pcb
+\i (00:50:04) generaledit 
+\i (00:50:28) define grid 
+\t (00:50:28) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:50:28) generaledit 
+\i (00:50:48) trapsize 1967
+\i (00:50:51) trapsize 1794
+\i (00:50:56) setwindow form.grid
+\i (00:50:56) FORM grid display YES 
+\i (00:51:30) FORM grid non_etch non_etch_x_grids -50 
+\i (00:51:36) FORM grid non_etch non_etch_x_grids -50 
+\i (00:51:40) FORM grid non_etch non_etch_y_grids -50 
+\i (00:51:43) FORM grid display NO 
+\i (00:51:44) FORM grid display YES 
+\i (00:51:45) FORM grid done  
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom in 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom in 51.026 -32.661
+\i (00:51:46) trapsize 897
+\i (00:51:46) zoom in 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom in 51.026 17.046
+\i (00:51:46) trapsize 449
+\i (00:51:46) zoom in 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom in 51.026 17.047
+\i (00:51:46) trapsize 224
+\i (00:51:47) zoom out 1 
+\i (00:51:47) setwindow pcb
+\i (00:51:47) zoom out 51.385 17.046
+\i (00:51:47) trapsize 449
+\i (00:51:49) trapsize 286
+\i (00:51:50) zoom out 1 
+\i (00:51:50) setwindow pcb
+\i (00:51:50) zoom out 52.420 3.952
+\i (00:51:50) trapsize 572
+\i (00:51:51) zoom out 1 
+\i (00:51:51) setwindow pcb
+\i (00:51:51) zoom out 52.535 22.390
+\i (00:51:51) trapsize 1145
+\i (00:51:51) zoom out 1 
+\i (00:51:51) setwindow pcb
+\i (00:51:51) zoom out 58.266 10.858
+\i (00:51:51) trapsize 1145
+\i (00:51:51) zoom in 1 
+\i (00:51:51) setwindow pcb
+\i (00:51:51) zoom in 57.579 10.858
+\i (00:51:51) trapsize 572
+\i (00:51:51) zoom in 1 
+\i (00:51:51) setwindow pcb
+\i (00:51:51) zoom in 51.627 35.327
+\i (00:51:51) trapsize 286
+\i (00:51:52) zoom out 1 
+\i (00:51:52) setwindow pcb
+\i (00:51:52) zoom out 51.627 35.327
+\i (00:51:52) trapsize 572
+\i (00:51:55) open 
+\e (00:51:55) Do you want to save the changes you made to micro_usb.dra?
+\i (00:51:57) fillin menu_cancel 
+\i (00:51:57) generaledit 
+\i (00:52:00) new 
+\e (00:52:00) Do you want to save the changes you made to micro_usb.dra?
+\i (00:52:01) fillin menu_cancel 
+\i (00:52:01) generaledit 
+\i (00:52:02) open 
+\e (00:52:02) Do you want to save the changes you made to micro_usb.dra?
+\i (00:52:04) fillin yes 
+\e (00:52:04) ERROR(SPMHOD-1): Design has been corrupted, saving as 'micro_usb.SAV'.
+\i (00:52:05) fillin confirm
+\e (00:52:05) ERROR(SPMHOD-1): Design has been corrupted, saving as 'C:/Users/user/Desktop/ex/EXXX/symbols/micro_usb.SAV'.
+\i (00:52:05) generaledit 
+\i (00:52:07) open 
+\e (00:52:07) Do you want to save the changes you made to micro_usb.dra?
+\i (00:52:10) fillin yes 
+\e (00:52:10) ERROR(SPMHOD-1): Design has been corrupted, saving as 'micro_usb.SAV'.
+\i (00:52:14) fillin confirm
+\e (00:52:14) ERROR(SPMHOD-1): Design has been corrupted, saving as 'C:/Users/user/Desktop/ex/EXXX/symbols/micro_usb.SAV'.
+\i (00:52:14) generaledit 
+\i (00:52:26) dlib 
+\i (00:52:31) setwindow form.dlib
+\i (00:52:31) FORM dlib browse_export  
+\i (00:52:53) fillin "menu_cancel"
+\i (00:52:54) FORM dlib cancel  
+\i (00:52:54) setwindow pcb
+\i (00:52:54) generaledit 
+\t (00:53:39) last pick:  47.734 36.243
+\w (00:53:39) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:54:07) define grid 
+\t (00:54:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:54:07) generaledit 
+\i (00:54:11) setwindow form.grid
+\i (00:54:11) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:54:15) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:54:15) FORM grid done  
+\t (00:54:15) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:54:16) setwindow pcb
+\i (00:54:16) zoom in 1 
+\i (00:54:16) setwindow pcb
+\i (00:54:16) zoom in 50.024 -7.944
+\t (00:54:16) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:54:16) trapsize 286
+\i (00:54:26) add pin 
+\i (00:54:28) trapsize 119
+\t (00:54:30) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:54:30) trapsize 139
+\i (00:54:33) setwindow form.mini
+\i (00:54:33) FORM mini pad_browse  
+\i (00:54:48) fillin "Micro_Usb_Gnd"
+\t (00:54:48) Using 'MICRO_USB_GND.pad'.
+\t (00:54:49) last pick:  48.431 -7.243
+\w (00:54:49) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:54:50) last pick:  49.296 -7.271
+\w (00:54:50) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:55:03) last pick:  52.895 -9.670
+\w (00:55:03) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:55:04) setwindow pcb
+\i (00:55:04) zoom in 1 
+\i (00:55:04) setwindow pcb
+\i (00:55:04) zoom in 56.020 -9.977
+\i (00:55:04) trapsize 70
+\i (00:55:04) zoom in 1 
+\i (00:55:04) setwindow pcb
+\i (00:55:04) zoom in 56.020 -9.976
+\i (00:55:04) trapsize 35
+\t (00:55:05) last pick:  54.374 -9.760
+\w (00:55:05) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:55:05) zoom in 1 
+\i (00:55:05) setwindow pcb
+\i (00:55:05) zoom in 54.639 -9.795
+\i (00:55:05) trapsize 17
+\i (00:55:15) zoom out 1 
+\i (00:55:15) setwindow pcb
+\i (00:55:15) zoom out 54.300 -9.868
+\i (00:55:15) trapsize 35
+\i (00:55:16) zoom out 1 
+\i (00:55:16) setwindow pcb
+\i (00:55:16) zoom out 54.133 -9.916
+\i (00:55:16) trapsize 70
+\t (00:55:21) last pick:  54.357 -9.038
+\w (00:55:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:55:47) setwindow form.mini
+\i (00:55:47) FORM mini pad_browse  
+\i (00:55:57) fillin "Micro_Usb"
+\t (00:55:57) Using 'MICRO_USB.pad'.
+\i (00:56:01) FORM mini pad_browse  
+\i (00:56:09) fillin "Micro_Usb_Pin"
+\t (00:56:09) Using 'MICRO_USB_PIN.pad'.
+\i (00:56:18) setwindow pcb
+\i (00:56:18) pick 0, 3.7 
+\t (00:56:18) last pick:  0.000 3.700
+\w (00:56:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:22) pick 0, 3.7 
+\t (00:56:22) last pick:  0.000 3.700
+\w (00:56:22) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:23) zoom out 1 
+\i (00:56:23) setwindow pcb
+\i (00:56:23) zoom out 58.403 -10.977
+\i (00:56:23) trapsize 140
+\i (00:56:23) zoom out 1 
+\i (00:56:23) setwindow pcb
+\i (00:56:23) zoom out 58.375 -11.033
+\t (00:56:23) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:56:23) trapsize 279
+\i (00:56:23) zoom out 1 
+\i (00:56:23) setwindow pcb
+\i (00:56:23) zoom out 58.375 -11.034
+\t (00:56:23) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:56:23) trapsize 558
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 64.911 1.334
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 84.334 8.144
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 84.334 8.144
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 83.534 8.545
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 81.533 8.278
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 79.666 8.278
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 78.198 8.278
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 70.195 8.811
+\i (00:56:24) trapsize 667
+\i (00:56:24) zoom out 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom out 67.394 9.078
+\i (00:56:24) trapsize 667
+\i (00:56:25) zoom out 1 
+\i (00:56:25) setwindow pcb
+\i (00:56:25) zoom out 19.774 11.346
+\i (00:56:25) trapsize 667
+\i (00:56:26) roam start
+\i (00:56:26) roam end
+\i (00:56:26) zoom in 1 
+\i (00:56:26) setwindow pcb
+\i (00:56:26) zoom in 10.437 11.212
+\t (00:56:26) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:56:26) trapsize 333
+\i (00:56:26) zoom in 1 
+\i (00:56:26) setwindow pcb
+\i (00:56:26) zoom in 10.438 11.213
+\t (00:56:26) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:56:26) trapsize 167
+\i (00:56:26) zoom in 1 
+\i (00:56:26) setwindow pcb
+\i (00:56:26) zoom in 10.438 11.213
+\i (00:56:26) trapsize 83
+\i (00:56:26) zoom in 1 
+\i (00:56:26) setwindow pcb
+\i (00:56:26) zoom in 10.437 11.231
+\i (00:56:26) trapsize 42
+\i (00:56:26) zoom in 1 
+\i (00:56:27) setwindow pcb
+\i (00:56:27) zoom in 10.437 11.231
+\i (00:56:27) trapsize 21
+\i (00:56:27) zoom in 1 
+\i (00:56:27) setwindow pcb
+\i (00:56:27) zoom in 10.437 11.231
+\i (00:56:27) trapsize 10
+\i (00:56:27) zoom out 1 
+\i (00:56:27) setwindow pcb
+\i (00:56:27) zoom out 11.054 11.319
+\i (00:56:27) trapsize 21
+\i (00:56:27) zoom out 1 
+\i (00:56:27) setwindow pcb
+\i (00:56:27) zoom out 11.055 11.320
+\i (00:56:27) trapsize 42
+\i (00:56:27) zoom out 1 
+\i (00:56:27) setwindow pcb
+\i (00:56:27) zoom out 11.055 11.319
+\i (00:56:27) trapsize 83
+\i (00:56:37) pick 0, 3.7 
+\t (00:56:37) last pick:  0.000 3.700
+\w (00:56:37) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:56:41) last pick:  13.939 9.352
+\w (00:56:41) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:55) pick 0, 3.7 
+\t (00:56:55) last pick:  0.000 3.700
+\w (00:56:55) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:56) pick 0, 3.7 
+\t (00:56:56) last pick:  0.000 3.700
+\w (00:56:56) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:56) pick 0, 3.7 
+\t (00:56:56) last pick:  0.000 3.700
+\w (00:56:56) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:56) pick 0, 3.7 
+\t (00:56:56) last pick:  0.000 3.700
+\w (00:56:56) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 15.257 9.085
+\i (00:57:08) trapsize 167
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 15.256 9.085
+\t (00:57:08) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:57:08) trapsize 333
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 25.108 9.086
+\t (00:57:08) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 83.267 -0.926
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 83.000 -0.926
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 83.000 -0.926
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 81.266 -2.260
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 81.266 -2.393
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 81.133 -2.527
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 81.133 -2.527
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 81.133 -2.527
+\i (00:57:08) trapsize 667
+\i (00:57:08) zoom out 1 
+\i (00:57:08) setwindow pcb
+\i (00:57:08) zoom out 80.466 -2.527
+\i (00:57:08) trapsize 667
+\i (00:57:09) zoom out 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom out 79.932 -2.660
+\i (00:57:09) trapsize 667
+\i (00:57:09) zoom out 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom out 73.930 -2.393
+\i (00:57:09) trapsize 667
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.949
+\t (00:57:09) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:57:09) trapsize 333
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.949
+\t (00:57:09) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:57:09) trapsize 167
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.950
+\i (00:57:09) trapsize 83
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.950
+\i (00:57:09) trapsize 42
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.950
+\i (00:57:09) trapsize 21
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.172 18.950
+\i (00:57:09) trapsize 10
+\i (00:57:09) zoom in 1 
+\i (00:57:09) setwindow pcb
+\i (00:57:09) zoom in -13.171 18.951
+\i (00:57:09) trapsize 5
+\i (00:57:10) zoom out 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom out -12.811 18.897
+\i (00:57:10) trapsize 10
+\i (00:57:10) zoom out 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom out -12.811 18.897
+\i (00:57:10) trapsize 21
+\i (00:57:10) zoom out 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom out -12.810 18.896
+\i (00:57:10) trapsize 42
+\i (00:57:10) zoom out 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom out -12.810 18.897
+\i (00:57:10) trapsize 83
+\i (00:57:10) zoom in 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom in -12.744 19.263
+\i (00:57:10) trapsize 42
+\i (00:57:10) zoom in 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom in -12.744 19.263
+\i (00:57:10) trapsize 21
+\i (00:57:10) zoom in 1 
+\i (00:57:10) setwindow pcb
+\i (00:57:10) zoom in -12.731 19.263
+\i (00:57:10) trapsize 10
+\i (00:57:11) zoom out 1 
+\i (00:57:11) setwindow pcb
+\i (00:57:11) zoom out -12.716 19.264
+\i (00:57:11) trapsize 21
+\t (00:57:12) last pick:  -12.433 19.359
+\w (00:57:12) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:57:40) last pick:  -12.450 19.922
+\w (00:57:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:57:41) zoom out 1 
+\i (00:57:41) setwindow pcb
+\i (00:57:41) zoom out -11.553 19.376
+\i (00:57:41) trapsize 42
+\t (00:57:46) last pick:  -12.054 19.767
+\w (00:57:46) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:57:52) last pick:  -13.071 19.701
+\w (00:57:52) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:57:55) last pick:  -14.598 20.051
+\w (00:57:55) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:57:55) last pick:  -13.538 19.893
+\w (00:57:55) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:57:56) last pick:  -13.538 19.893
+\w (00:57:56) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:57:57) zoom in 1 
+\i (00:57:57) setwindow pcb
+\i (00:57:57) zoom in -12.195 19.576
+\i (00:57:57) trapsize 21
+\i (00:57:57) zoom in 1 
+\i (00:57:57) setwindow pcb
+\i (00:57:57) zoom in -12.195 19.576
+\i (00:57:57) trapsize 10
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out -12.195 19.570
+\i (00:57:58) trapsize 21
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out -12.187 19.553
+\i (00:57:58) trapsize 42
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out -12.187 19.552
+\i (00:57:58) trapsize 83
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out -12.170 19.536
+\i (00:57:58) trapsize 167
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out -9.423 19.535
+\t (00:57:58) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:57:58) trapsize 334
+\i (00:57:58) zoom out 1 
+\i (00:57:58) setwindow pcb
+\i (00:57:58) zoom out 14.467 19.535
+\t (00:57:58) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:57:58) trapsize 667
+\i (00:57:59) zoom out 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom out 62.192 20.549
+\i (00:57:59) trapsize 667
+\i (00:57:59) zoom out 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom out 62.192 20.549
+\i (00:57:59) trapsize 667
+\i (00:57:59) zoom out 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom out 62.192 20.549
+\i (00:57:59) trapsize 667
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.843 21.750
+\t (00:57:59) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:57:59) trapsize 333
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.843 21.750
+\t (00:57:59) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:57:59) trapsize 167
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.842 21.751
+\i (00:57:59) trapsize 83
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.843 21.751
+\i (00:57:59) trapsize 42
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.810 21.751
+\i (00:57:59) trapsize 21
+\i (00:57:59) zoom in 1 
+\i (00:57:59) setwindow pcb
+\i (00:57:59) zoom in -23.605 21.752
+\i (00:57:59) trapsize 10
+\i (00:58:00) zoom in 1 
+\i (00:58:00) setwindow pcb
+\i (00:58:00) zoom in -23.536 21.750
+\i (00:58:00) trapsize 5
+\i (00:58:00) zoom out 1 
+\i (00:58:00) setwindow pcb
+\i (00:58:00) zoom out -23.422 21.724
+\i (00:58:00) trapsize 10
+\i (00:58:00) zoom out 1 
+\i (00:58:00) setwindow pcb
+\i (00:58:00) zoom out -23.384 21.709
+\i (00:58:00) trapsize 21
+\i (00:58:00) zoom out 1 
+\i (00:58:00) setwindow pcb
+\i (00:58:00) zoom out -23.371 21.705
+\i (00:58:00) trapsize 42
+\i (00:58:07) pick 0, 3.7 
+\t (00:58:07) last pick:  0.000 3.700
+\w (00:58:07) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:58:09) pick 0, 3.7 
+\t (00:58:09) last pick:  0.000 3.700
+\w (00:58:09) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:58:10) pick 0, 3.7 
+\t (00:58:10) last pick:  0.000 3.700
+\w (00:58:10) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:58:13) pick_to_grid 0, 3.7 
+\t (00:58:13) last pick:  0.000 3.700
+\w (00:58:13) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:58:15) zoom out 1 
+\i (00:58:15) setwindow pcb
+\i (00:58:15) zoom out -16.839 20.937
+\i (00:58:15) trapsize 83
+\i (00:58:15) zoom out 1 
+\i (00:58:15) setwindow pcb
+\i (00:58:15) zoom out -15.696 20.937
+\i (00:58:15) trapsize 167
+\i (00:58:15) zoom out 1 
+\i (00:58:15) setwindow pcb
+\i (00:58:15) zoom out 1.554 20.938
+\t (00:58:15) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:58:15) trapsize 334
+\i (00:58:15) zoom out 1 
+\i (00:58:15) setwindow pcb
+\i (00:58:15) zoom out 36.356 20.937
+\t (00:58:15) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:58:15) trapsize 667
+\i (00:58:16) zoom out 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom out 105.009 3.476
+\i (00:58:16) trapsize 667
+\i (00:58:16) zoom out 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom out 104.876 3.076
+\i (00:58:16) trapsize 667
+\i (00:58:16) zoom out 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom out 104.876 3.076
+\i (00:58:16) trapsize 667
+\i (00:58:16) zoom out 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom out 104.876 2.542
+\i (00:58:16) trapsize 667
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 27.111 7.611
+\t (00:58:16) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:58:16) trapsize 333
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 26.978 7.611
+\t (00:58:16) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:58:16) trapsize 167
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 26.979 7.611
+\i (00:58:16) trapsize 83
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 26.961 7.628
+\i (00:58:16) trapsize 42
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 26.962 7.628
+\i (00:58:16) trapsize 21
+\i (00:58:16) zoom in 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom in 26.962 7.628
+\i (00:58:16) trapsize 10
+\i (00:58:16) zoom out 1 
+\i (00:58:16) setwindow pcb
+\i (00:58:16) zoom out 26.972 7.628
+\i (00:58:16) trapsize 21
+\i (00:58:17) zoom out 1 
+\i (00:58:17) setwindow pcb
+\i (00:58:17) zoom out 26.981 7.629
+\i (00:58:17) trapsize 42
+\i (00:58:17) zoom out 1 
+\i (00:58:17) setwindow pcb
+\i (00:58:17) zoom out 27.006 7.637
+\i (00:58:17) trapsize 83
+\i (00:58:17) zoom out 1 
+\i (00:58:17) setwindow pcb
+\i (00:58:17) zoom out 27.122 7.638
+\i (00:58:17) trapsize 167
+\i (00:58:17) zoom out 1 
+\i (00:58:17) setwindow pcb
+\i (00:58:17) zoom out 27.123 7.637
+\t (00:58:17) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:58:17) trapsize 333
+\i (00:58:17) zoom out 1 
+\i (00:58:17) setwindow pcb
+\i (00:58:17) zoom out 27.189 7.371
+\t (00:58:17) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:58:17) trapsize 667
+\i (00:58:17) zoom out 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom out 10.037 -7.062
+\i (00:58:18) trapsize 667
+\i (00:58:18) zoom out 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom out 10.037 -7.062
+\i (00:58:18) trapsize 667
+\i (00:58:18) zoom out 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom out 10.037 -7.062
+\i (00:58:18) trapsize 667
+\i (00:58:18) zoom out 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom out 10.037 -7.062
+\i (00:58:18) trapsize 667
+\i (00:58:18) zoom out 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom out 10.037 -7.062
+\i (00:58:18) trapsize 667
+\i (00:58:18) zoom in 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom in 10.037 -6.795
+\t (00:58:18) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:58:18) trapsize 333
+\i (00:58:18) zoom in 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom in 10.038 -6.795
+\t (00:58:18) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:58:18) trapsize 167
+\i (00:58:18) zoom in 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom in 10.071 -6.761
+\i (00:58:18) trapsize 83
+\i (00:58:18) zoom in 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom in 10.104 -6.660
+\i (00:58:18) trapsize 42
+\i (00:58:18) zoom in 1 
+\i (00:58:18) setwindow pcb
+\i (00:58:18) zoom in 10.104 -6.660
+\i (00:58:18) trapsize 21
+\i (00:58:19) zoom in 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom in 10.350 -6.569
+\i (00:58:19) trapsize 10
+\i (00:58:19) zoom in 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom in 10.413 -6.549
+\i (00:58:19) trapsize 5
+\i (00:58:19) zoom in 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom in 10.471 -6.536
+\i (00:58:19) trapsize 3
+\i (00:58:19) zoom out 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom out 10.515 -6.524
+\i (00:58:19) trapsize 5
+\i (00:58:19) zoom out 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom out 10.516 -6.523
+\i (00:58:19) trapsize 10
+\i (00:58:19) zoom out 1 
+\i (00:58:19) setwindow pcb
+\i (00:58:19) zoom out 10.516 -6.523
+\i (00:58:19) trapsize 21
+\i (00:58:25) add pin 
+\t (00:58:25) Exiting from Add Pin.
+\t (00:58:25) Using 'MICRO_USB_PIN.pad'.
+\i (00:58:26) setwindow form.mini
+\i (00:58:26) FORM mini pad_browse  
+\i (00:58:34) fillin "Micro_Usb_Pin"
+\t (00:58:34) Using 'MICRO_USB_PIN.pad'.
+\t (00:58:39) last pick:  11.153 -5.848
+\w (00:58:39) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:58:57) setwindow pcb
+\i (00:58:57) zoom out 1 
+\i (00:58:57) setwindow pcb
+\i (00:58:57) zoom out 11.729 -5.977
+\i (00:58:57) trapsize 42
+\i (00:58:57) zoom out 1 
+\i (00:58:57) setwindow pcb
+\i (00:58:57) zoom out 11.729 -5.977
+\i (00:58:57) trapsize 83
+\i (00:58:57) zoom out 1 
+\i (00:58:57) setwindow pcb
+\i (00:58:57) zoom out 11.729 -5.977
+\i (00:58:57) trapsize 167
+\i (00:58:57) zoom out 1 
+\i (00:58:57) setwindow pcb
+\i (00:58:57) zoom out 11.728 -5.977
+\t (00:58:57) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:58:57) trapsize 334
+\i (00:58:58) zoom in 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom in 18.338 -5.509
+\t (00:58:58) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:58:58) trapsize 167
+\i (00:58:58) zoom in 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom in 18.338 -5.509
+\i (00:58:58) trapsize 83
+\i (00:58:58) zoom in 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom in 18.338 -5.509
+\i (00:58:58) trapsize 42
+\i (00:58:58) zoom in 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom in 18.339 -5.508
+\i (00:58:58) trapsize 21
+\i (00:58:58) zoom in 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom in 18.339 -5.508
+\i (00:58:58) trapsize 10
+\i (00:58:58) zoom out 1 
+\i (00:58:58) setwindow pcb
+\i (00:58:58) zoom out 18.360 -5.449
+\i (00:58:58) trapsize 21
+\i (00:58:59) zoom out 1 
+\i (00:58:59) setwindow pcb
+\i (00:58:59) zoom out 18.364 -5.449
+\i (00:58:59) trapsize 42
+\t (00:58:59) last pick:  18.364 -5.449
+\w (00:58:59) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:59:00) last pick:  18.364 -5.449
+\w (00:59:00) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 19.140 -5.040
+\i (00:59:30) trapsize 21
+\i (00:59:30) prepopup 19.082 -4.969
+\i (00:59:32) done 
+\t (00:59:32) Exiting from Add Pin.
+\i (00:59:32) generaledit 
+\i (00:59:36) add pin 
+\t (00:59:36) Using 'MICRO_USB_PIN.pad'.
+\i (00:59:38) setwindow form.mini
+\i (00:59:38) FORM mini pad_browse  
+\i (00:59:50) fillin "Micro_Usb_Pin"
+\t (00:59:50) Using 'MICRO_USB_PIN.pad'.
+\t (00:59:51) last pick:  18.844 -5.069
+\w (00:59:51) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:59:57) setwindow pcb
+\i (00:59:57) enved 
+\i (00:59:59) setwindow form.prfedit
+\i (00:59:59) FORM prfedit done  
+\i (01:00:07) setwindow pcb
+\i (01:00:07) color192 
+\i (01:00:07) setwindow cvf.dialog
+\i (01:00:07) cvf layer_mode
+\i (01:00:09) cvf cancel
+\i (01:00:15) setwindow pcb
+\i (01:00:15) define property 
+\i (01:00:24) cmgr 
+\i (01:00:26) setwindow cmgr
+\i (01:00:26) cm exit
+\i (01:00:29) setwindow pcb
+\i (01:00:29) prmed 
+\t (01:00:29) Exiting from Add Pin.
+\i (01:00:30) setwindow form.prmedit
+\i (01:00:30) FORM prmedit design  
+\i (01:00:31) FORM prmedit text  
+\i (01:00:32) FORM prmedit shapes  
+\i (01:00:32) FORM prmedit flow_planning  
+\i (01:00:32) FORM prmedit route  
+\i (01:00:33) FORM prmedit display  
+\i (01:00:34) FORM prmedit design  
+\i (01:00:35) FORM prmedit display  
+\i (01:00:38) FORM prmedit display_plated_holes YES 
+\i (01:00:38) FORM prmedit display_non_plated_holes YES 
+\i (01:00:39) FORM prmedit display_thermal YES 
+\i (01:00:40) FORM prmedit display_fat_rats YES 
+\i (01:00:40) FORM prmedit via_labels YES 
+\i (01:00:41) FORM prmedit dp_driver_pins YES 
+\i (01:00:41) FORM prmedit secondary_step_model YES 
+\i (01:00:42) FORM prmedit done  
+\i (01:00:43) setwindow pcb
+\i (01:00:43) generaledit 
+\i (01:00:48) add pin 
+\t (01:00:48) Using 'MICRO_USB_PIN.pad'.
+\i (01:00:49) setwindow form.mini
+\i (01:00:49) FORM mini pad_browse  
+\i (01:00:57) fillin "Micro_Usb_Pin"
+\t (01:00:57) Using 'MICRO_USB_PIN.pad'.
+\i (01:01:07) setwindow pcb
+\i (01:01:07) pick 0, 0.37 
+\t (01:01:07) last pick:  0.000 0.370
+\w (01:01:07) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:01:12) pick 0, 0.37 
+\t (01:01:12) last pick:  0.000 0.370
+\w (01:01:12) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:01:13) zoom out 1 
+\i (01:01:13) setwindow pcb
+\i (01:01:13) zoom out 19.344 -6.157
+\i (01:01:13) trapsize 42
+\i (01:01:13) zoom out 1 
+\i (01:01:13) setwindow pcb
+\i (01:01:13) zoom out 19.345 -6.158
+\i (01:01:13) trapsize 83
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 19.345 -6.158
+\i (01:01:14) trapsize 167
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 19.344 -6.157
+\t (01:01:14) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:01:14) trapsize 334
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 28.548 -6.157
+\t (01:01:14) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (01:01:14) trapsize 667
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 85.801 -5.595
+\i (01:01:14) trapsize 667
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 85.401 -5.728
+\i (01:01:14) trapsize 667
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 84.601 -5.728
+\i (01:01:14) trapsize 667
+\i (01:01:14) zoom out 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom out 79.666 -7.329
+\i (01:01:14) trapsize 667
+\i (01:01:14) zoom in 1 
+\i (01:01:14) setwindow pcb
+\i (01:01:14) zoom in 4.435 -16.266
+\t (01:01:14) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:01:14) trapsize 333
+\i (01:01:14) zoom in 1 
+\i (01:01:15) setwindow pcb
+\i (01:01:15) zoom in 4.435 -16.265
+\t (01:01:15) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (01:01:15) trapsize 167
+\i (01:01:15) zoom in 1 
+\i (01:01:15) setwindow pcb
+\i (01:01:15) zoom in 4.469 -16.265
+\i (01:01:15) trapsize 83
+\i (01:01:15) zoom in 1 
+\i (01:01:15) setwindow pcb
+\i (01:01:15) zoom in 4.469 -16.265
+\i (01:01:15) trapsize 42
+\i (01:01:15) zoom in 1 
+\i (01:01:15) setwindow pcb
+\i (01:01:15) zoom in 4.469 -16.265
+\i (01:01:15) trapsize 21
+\i (01:01:15) zoom in 1 
+\i (01:01:15) setwindow pcb
+\i (01:01:15) zoom in 4.498 -16.260
+\i (01:01:15) trapsize 10
+\i (01:01:16) zoom out 1 
+\i (01:01:16) setwindow pcb
+\i (01:01:16) zoom out 5.634 -16.178
+\i (01:01:16) trapsize 21
+\i (01:01:16) zoom out 1 
+\i (01:01:16) setwindow pcb
+\i (01:01:16) zoom out 5.635 -16.179
+\i (01:01:16) trapsize 42
+\i (01:01:16) zoom out 1 
+\i (01:01:16) setwindow pcb
+\i (01:01:16) zoom out 5.634 -16.178
+\i (01:01:16) trapsize 83
+\i (01:01:16) zoom out 1 
+\i (01:01:16) setwindow pcb
+\i (01:01:16) zoom out 5.618 -16.128
+\i (01:01:16) trapsize 167
+\i (01:01:17) zoom in 1 
+\i (01:01:17) setwindow pcb
+\i (01:01:17) zoom in 4.984 -15.962
+\i (01:01:17) trapsize 83
+\i (01:01:17) zoom in 1 
+\i (01:01:17) setwindow pcb
+\i (01:01:17) zoom in 4.984 -15.945
+\i (01:01:17) trapsize 42
+\i (01:01:17) zoom in 1 
+\i (01:01:17) setwindow pcb
+\i (01:01:17) zoom in 4.984 -15.945
+\i (01:01:17) trapsize 21
+\i (01:01:17) zoom in 1 
+\i (01:01:17) setwindow pcb
+\i (01:01:17) zoom in 4.984 -15.941
+\i (01:01:17) trapsize 10
+\i (01:01:17) zoom out 1 
+\i (01:01:17) setwindow pcb
+\i (01:01:17) zoom out 4.855 -15.540
+\i (01:01:17) trapsize 21
+\i (01:01:17) zoom out 1 
+\i (01:01:18) setwindow pcb
+\i (01:01:18) zoom out 4.852 -15.570
+\i (01:01:18) trapsize 42
+\i (01:01:30) setwindow form.mini
+\i (01:01:30) FORM mini pintype_mechanical YES 
+\i (01:01:32) FORM mini pad_browse  
+\t (01:01:40) No valid name selected.
+\i (01:01:42) fillin "Micro_Usb_Pin"
+\t (01:01:42) Using 'MICRO_USB_PIN.pad'.
+\i (01:01:48) setwindow pcb
+\i (01:01:48) pick 0, 0.37 
+\t (01:01:48) last pick:  0.000 0.370
+\w (01:01:48) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:01:50) pick 0, 0.37 
+\t (01:01:50) last pick:  0.000 0.370
+\w (01:01:50) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:01:52) zoom out 1 
+\i (01:01:52) setwindow pcb
+\i (01:01:52) zoom out 6.418 -16.728
+\i (01:01:52) trapsize 83
+\i (01:01:52) zoom out 1 
+\i (01:01:52) setwindow pcb
+\i (01:01:52) zoom out 6.419 -16.729
+\i (01:01:52) trapsize 167
+\i (01:01:52) zoom out 1 
+\i (01:01:52) setwindow pcb
+\i (01:01:52) zoom out 9.821 -13.760
+\t (01:01:52) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:01:52) trapsize 333
+\i (01:01:52) zoom out 1 
+\i (01:01:52) setwindow pcb
+\i (01:01:52) zoom out 35.045 -12.798
+\t (01:01:52) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (01:01:52) trapsize 667
+\i (01:01:52) zoom out 1 
+\i (01:01:52) setwindow pcb
+\i (01:01:52) zoom out 101.541 9.078
+\i (01:01:52) trapsize 667
+\i (01:01:53) zoom in 1 
+\i (01:01:53) setwindow pcb
+\i (01:01:53) zoom in 90.470 10.545
+\t (01:01:53) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:01:53) trapsize 333
+\i (01:01:53) zoom in 1 
+\i (01:01:53) setwindow pcb
+\i (01:01:53) zoom in 89.870 10.545
+\t (01:01:53) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (01:01:53) trapsize 167
+\i (01:01:53) zoom in 1 
+\i (01:01:53) setwindow pcb
+\i (01:01:53) zoom in 89.703 10.612
+\i (01:01:53) trapsize 83
+\i (01:01:53) zoom in 1 
+\i (01:01:53) setwindow pcb
+\i (01:01:53) zoom in 89.687 10.613
+\i (01:01:53) trapsize 42
+\i (01:01:53) zoom in 1 
+\i (01:01:53) setwindow pcb
+\i (01:01:53) zoom in 89.687 10.613
+\i (01:01:53) trapsize 21
+\t (01:01:53) last pick:  88.844 11.030
+\w (01:01:53) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:01:54) last pick:  89.470 10.900
+\w (01:01:54) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:01:57) last pick:  88.774 10.863
+\w (01:01:57) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:02:00) setwindow form.mini
+\i (01:02:00) FORM mini pintype_connect YES 
+\i (01:02:22) setwindow pcb
+\i (01:02:22) zoom out 1 
+\i (01:02:22) setwindow pcb
+\i (01:02:22) zoom out 89.974 11.088
+\i (01:02:22) trapsize 42
+\t (01:02:23) last pick:  88.540 10.988
+\w (01:02:23) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:02:32) grid toggle 
+\i (01:02:34) grid toggle 
+\i (01:02:35) grid toggle 
+\i (01:02:35) grid toggle 
+\i (01:02:35) grid toggle 
+\i (01:02:36) grid toggle 
+\i (01:02:36) grid toggle 
+\i (01:02:36) grid toggle 
+\i (01:02:41) zoom in 1 
+\i (01:02:41) setwindow pcb
+\i (01:02:41) zoom in 88.349 10.930
+\i (01:02:41) trapsize 21
+\t (01:02:43) last pick:  88.358 10.930
+\w (01:02:43) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:02:50) last pick:  88.166 10.767
+\w (01:02:50) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:02:53) prepopup 88.470 10.909
+\i (01:02:55) done 
+\t (01:02:55) Exiting from Add Pin.
+\i (01:02:55) generaledit 
+\i (01:02:56) zoom out 1 
+\i (01:02:56) setwindow pcb
+\i (01:02:56) zoom out 87.912 10.838
+\i (01:02:56) trapsize 42
+\i (01:03:06) add pin 
+\t (01:03:06) Using 'MICRO_USB_PIN.pad'.
+\i (01:03:07) setwindow form.mini
+\i (01:03:07) FORM mini pad_browse  
+\i (01:03:17) fillin "Micro_Usb_Pin"
+\t (01:03:17) Using 'MICRO_USB_PIN.pad'.
+\t (01:03:18) last pick:  89.845 11.263
+\w (01:03:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:18) last pick:  87.044 11.622
+\w (01:03:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:19) last pick:  87.044 11.622
+\w (01:03:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:19) last pick:  86.869 11.547
+\w (01:03:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:19) last pick:  86.811 11.447
+\w (01:03:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:19) last pick:  86.869 11.422
+\w (01:03:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:20) last pick:  86.911 11.338
+\w (01:03:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:20) last pick:  86.728 11.255
+\w (01:03:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:20) last pick:  86.853 10.988
+\w (01:03:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:20) last pick:  86.853 10.988
+\w (01:03:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:21) last pick:  86.903 10.947
+\w (01:03:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:21) last pick:  86.953 10.947
+\w (01:03:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:21) last pick:  86.953 10.947
+\w (01:03:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:22) last pick:  87.478 11.097
+\w (01:03:22) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:22) last pick:  86.936 11.030
+\w (01:03:22) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:22) last pick:  86.694 10.930
+\w (01:03:22) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:23) last pick:  86.527 11.022
+\w (01:03:23) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:25) last pick:  87.453 11.097
+\w (01:03:25) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:25) last pick:  87.453 11.097
+\w (01:03:25) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:25) last pick:  87.453 11.097
+\w (01:03:25) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:25) last pick:  87.453 11.097
+\w (01:03:25) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:26) last pick:  87.453 11.097
+\w (01:03:26) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:29) last pick:  87.644 11.155
+\w (01:03:29) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:32) last pick:  87.945 10.813
+\w (01:03:32) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:34) last pick:  87.044 11.105
+\w (01:03:34) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:36) setwindow pcb
+\i (01:03:36) prepopup 87.728 10.663
+\i (01:03:37) done 
+\t (01:03:37) Exiting from Add Pin.
+\i (01:03:37) generaledit 
+\t (01:03:39) last pick:  85.902 11.763
+\w (01:03:39) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:39) drag_start grid 85.085 12.447
+\i (01:03:39) drag_stop 90.846 9.488
+\t (01:03:40) last pick:  87.528 10.963
+\w (01:03:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:40) drag_start grid 87.019 11.172
+\i (01:03:40) drag_stop 86.819 11.330
+\t (01:03:40) last pick:  86.544 11.555
+\w (01:03:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:40) last pick:  86.052 11.838
+\w (01:03:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:40) last pick:  85.711 11.980
+\w (01:03:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:03:40) last pick:  85.711 11.914
+\w (01:03:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:40) prepopup 86.661 12.197
+\t (01:03:41) last pick:  86.227 12.347
+\w (01:03:41) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:42) add pin 
+\t (01:03:42) Using 'MICRO_USB_PIN.pad'.
+\t (01:03:44) last pick:  87.553 11.105
+\w (01:03:44) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:03:47) zoom out 1 
+\i (01:03:47) setwindow pcb
+\i (01:03:47) zoom out 87.503 10.446
+\i (01:03:47) trapsize 83
+\i (01:03:47) zoom out 1 
+\i (01:03:47) setwindow pcb
+\i (01:03:47) zoom out 87.503 10.447
+\i (01:03:47) trapsize 167
+\i (01:03:48) roam start
+\i (01:03:48) roam x -192
+\i (01:03:48) roam x -320
+\i (01:03:48) roam x -48
+\i (01:03:48) roam x -80
+\i (01:03:48) roam x -48
+\i (01:03:49) roam x -48
+\i (01:03:49) roam end
+\i (01:03:51) roam start
+\i (01:03:51) roam x -128
+\i (01:03:51) roam y 32
+\i (01:03:51) roam x -368
+\i (01:03:51) roam y 96
+\i (01:03:51) roam x -144
+\i (01:03:51) roam y 32
+\i (01:03:51) roam x -48
+\i (01:03:51) roam y 16
+\i (01:03:51) roam x -16
+\i (01:03:51) roam y 16
+\i (01:03:51) roam x -32
+\i (01:03:51) roam x 96
+\i (01:03:51) roam y -16
+\i (01:03:51) roam x 240
+\i (01:03:51) roam y -64
+\i (01:03:51) roam x 304
+\i (01:03:51) roam y -48
+\i (01:03:51) roam x 208
+\i (01:03:51) roam y -16
+\i (01:03:51) roam x 192
+\i (01:03:51) roam y -16
+\i (01:03:52) roam x 32
+\i (01:03:52) roam x 48
+\i (01:03:52) roam y -16
+\i (01:03:52) roam end
+\i (01:03:55) prepopup 78.562 7.276
+\i (01:03:59) roam start
+\i (01:03:59) roam x -160
+\i (01:03:59) roam y 80
+\i (01:03:59) roam x -256
+\i (01:03:59) roam y 80
+\i (01:03:59) roam x -160
+\i (01:03:59) roam y 16
+\i (01:03:59) roam x -256
+\i (01:03:59) roam y 32
+\i (01:03:59) roam x -80
+\i (01:03:59) roam x -144
+\i (01:03:59) roam x -144
+\i (01:03:59) roam x -160
+\i (01:03:59) roam y -32
+\i (01:03:59) roam x -176
+\i (01:03:59) roam x -272
+\i (01:03:59) roam x -192
+\i (01:03:59) roam y 32
+\i (01:04:00) roam x -80
+\i (01:04:00) roam y 48
+\i (01:04:00) roam x -144
+\i (01:04:00) roam y 112
+\i (01:04:00) roam x -224
+\i (01:04:00) roam y 144
+\i (01:04:00) roam x -144
+\i (01:04:00) roam y 128
+\i (01:04:00) roam x -32
+\i (01:04:00) roam y 16
+\i (01:04:00) roam y 32
+\i (01:04:00) roam y 16
+\i (01:04:00) roam x 16
+\i (01:04:00) roam x 160
+\i (01:04:00) roam y -64
+\i (01:04:00) roam x 96
+\i (01:04:00) roam y -32
+\i (01:04:00) roam x 144
+\i (01:04:00) roam y -48
+\i (01:04:00) roam x 32
+\i (01:04:00) roam y -16
+\i (01:04:01) roam x 32
+\i (01:04:01) roam y -16
+\i (01:04:01) roam x 16
+\i (01:04:01) roam y -16
+\i (01:04:01) roam x 32
+\i (01:04:02) roam x 48
+\i (01:04:02) roam x 16
+\i (01:04:02) roam y -16
+\i (01:04:02) roam y -96
+\i (01:04:02) roam y -48
+\i (01:04:02) roam x -16
+\i (01:04:02) roam y -48
+\i (01:04:03) roam y -64
+\i (01:04:03) roam x -16
+\i (01:04:03) roam y -48
+\i (01:04:03) roam x -16
+\i (01:04:03) roam y -16
+\i (01:04:03) roam y -16
+\i (01:04:03) roam y -16
+\i (01:04:03) roam y -16
+\i (01:04:03) roam x -16
+\i (01:04:03) roam y -16
+\i (01:04:04) roam y -16
+\i (01:04:04) roam x -16
+\i (01:04:05) roam end
+\i (01:04:07) zoom in 1 
+\i (01:04:07) setwindow pcb
+\i (01:04:07) zoom in -0.001 -0.094
+\i (01:04:07) trapsize 83
+\t (01:04:11) last pick:  -0.067 1.057
+\w (01:04:11) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:12) last pick:  1.383 1.007
+\w (01:04:12) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:12) last pick:  -1.084 1.124
+\w (01:04:12) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:12) last pick:  -2.168 1.074
+\w (01:04:12) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:13) last pick:  0.283 1.224
+\w (01:04:13) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:13) last pick:  0.650 1.124
+\w (01:04:13) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:14) last pick:  0.533 1.291
+\w (01:04:14) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:17) last pick:  0.433 1.007
+\w (01:04:17) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:18) last pick:  -0.001 1.557
+\w (01:04:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:04:18) prepopup 0.316 2.241
+\i (01:04:19) done 
+\t (01:04:19) Exiting from Add Pin.
+\i (01:04:19) generaledit 
+\i (01:04:19) add line 
+\t (01:04:20) last pick:  -3.102 4.342
+\w (01:04:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:20) last pick:  1.233 0.257
+\w (01:04:20) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:21) last pick:  -2.085 3.341
+\w (01:04:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (01:04:21) last pick:  3.884 4.642
+\w (01:04:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:04:21) prepopup -0.818 7.343
+\i (01:04:22) done 
+\i (01:04:22) generaledit 
+\i (01:04:24) color192 
+\i (01:04:24) setwindow cvf.dialog
+\i (01:04:24) cvf layer_mode
+\i (01:04:24) setwindow pcb
+\i (01:04:24) generaledit 
+\i (01:04:27) setwindow cvf.dialog
+\i (01:04:27) cvf global_visible
+\i (01:04:28) cvf okay
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out -2.001 1.607
+\i (01:04:30) trapsize 167
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out -1.935 1.608
+\t (01:04:30) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:04:30) trapsize 333
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out -1.869 1.607
+\t (01:04:30) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (01:04:30) trapsize 667
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out 15.506 1.075
+\i (01:04:30) trapsize 667
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out 15.906 1.075
+\i (01:04:30) trapsize 667
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out 16.840 1.475
+\i (01:04:30) trapsize 667
+\i (01:04:30) zoom out 1 
+\i (01:04:30) setwindow pcb
+\i (01:04:30) zoom out 16.840 1.475
+\i (01:04:30) trapsize 667
+\i (01:04:31) zoom in 1 
+\i (01:04:31) setwindow pcb
+\i (01:04:31) zoom in -18.375 -25.069
+\t (01:04:31) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:04:31) trapsize 333
+\i (01:04:31) zoom in 1 
+\i (01:04:31) setwindow pcb
+\i (01:04:31) zoom in -18.174 -25.069
+\t (01:04:31) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (01:04:31) trapsize 167
+\i (01:04:31) zoom in 1 
+\i (01:04:31) setwindow pcb
+\i (01:04:31) zoom in -17.707 -24.902
+\i (01:04:31) trapsize 83
+\i (01:04:31) zoom in 1 
+\i (01:04:31) setwindow pcb
+\i (01:04:31) zoom in -17.591 -24.835
+\i (01:04:31) trapsize 42
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -16.641 -24.510
+\i (01:04:32) trapsize 83
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -16.508 -24.442
+\i (01:04:32) trapsize 167
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -16.408 -24.343
+\t (01:04:32) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:04:32) trapsize 333
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -15.906 -24.342
+\t (01:04:32) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (01:04:32) trapsize 667
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out 3.501 -16.666
+\i (01:04:32) trapsize 667
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out 3.901 -16.399
+\i (01:04:32) trapsize 667
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out 4.035 -16.399
+\i (01:04:32) trapsize 667
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out 4.035 -16.399
+\i (01:04:32) trapsize 667
+\t (01:04:33) last pick:  43.384 11.746
+\w (01:04:33) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (01:04:35) new 
+\e (01:04:35) Do you want to save the changes you made to micro_usb.dra?
+\i (01:04:36) fillin no 
+\i (01:05:08) newdrawfillin "micro_usb.dra" "Package Symbol"
+\t (01:05:08) Starting new design...
+\i (01:05:08) trapsize 1396
+\i (01:05:08) trapsize 1396
+\i (01:05:08) generaledit 
+\i (01:05:10) roam start
+\i (01:05:10) roam end
+\i (01:05:11) roam start
+\i (01:05:11) roam end
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:11) zoom out 1 
+\i (01:05:11) setwindow pcb
+\i (01:05:11) zoom out 9.681 -920.133
+\i (01:05:11) trapsize 1396
+\i (01:05:12) zoom in 1 
+\i (01:05:12) setwindow pcb
+\i (01:05:12) zoom in 7.726 -919.295
+\i (01:05:12) trapsize 698
+\i (01:05:12) zoom in 1 
+\i (01:05:12) setwindow pcb
+\i (01:05:12) zoom in 7.726 -919.295
+\i (01:05:12) trapsize 349
+\i (01:05:15) prmed 
+\i (01:05:17) setwindow form.prmedit
+\i (01:05:17) FORM prmedit display_plated_holes YES 
+\i (01:05:17) FORM prmedit display_non_plated_holes YES 
+\i (01:05:18) FORM prmedit display_thermal YES 
+\i (01:05:18) FORM prmedit display_fat_rats YES 
+\i (01:05:19) FORM prmedit waived_drc_on YES 
+\i (01:05:19) FORM prmedit via_labels YES 
+\i (01:05:20) FORM prmedit dp_driver_pins YES 
+\i (01:05:20) FORM prmedit secondary_step_model YES 
+\i (01:05:21) FORM prmedit design  
+\i (01:05:30) FORM prmedit y -100.000 
+\i (01:05:33) FORM prmedit done  
+\i (01:05:33) setwindow pcb
+\i (01:05:33) trapsize 349
+\i (01:05:33) generaledit 
+\i (01:05:36) define grid 
+\t (01:05:36) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:05:36) generaledit 
+\i (01:05:39) setwindow form.grid
+\i (01:05:39) FORM grid non_etch non_etch_x_grids 0.1 
+\i (01:05:47) FORM grid non_etch non_etch_y_grids 0.1 
+\i (01:05:48) FORM grid done  
+\i (01:05:49) setwindow pcb
+\i (01:05:49) pick grid 12.055 -73.052
+\t (01:05:49) last pick:  12.100 -73.100
+\i (01:05:50) grid toggle 
+\t (01:05:50) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:05:50) generaledit 
+\i (01:05:50) grid toggle 
+\i (01:05:50) generaledit 
+\i (01:05:51) roam start
+\i (01:05:51) roam y -48
+\i (01:05:51) roam x -16
+\i (01:05:51) roam y -64
+\i (01:05:51) roam x -16
+\i (01:05:51) roam y -32
+\i (01:05:51) roam x -16
+\i (01:05:51) roam y -128
+\i (01:05:51) roam x -16
+\i (01:05:51) roam y -64
+\i (01:05:52) roam x -16
+\i (01:05:52) roam y -48
+\i (01:05:52) roam y -48
+\i (01:05:52) roam x -16
+\i (01:05:52) roam y -32
+\i (01:05:52) roam x -112
+\i (01:05:52) roam y -48
+\i (01:05:52) roam x -48
+\i (01:05:52) roam y -16
+\i (01:05:52) roam x -32
+\i (01:05:52) roam y -32
+\i (01:05:52) roam x -16
+\i (01:05:52) roam y -48
+\i (01:05:52) roam y -48
+\i (01:05:52) roam y -16
+\i (01:05:52) roam y -48
+\i (01:05:52) roam x 48
+\i (01:05:52) roam y -64
+\i (01:05:52) roam y -32
+\i (01:05:52) roam x 16
+\i (01:05:52) roam y -48
+\i (01:05:52) roam y -32
+\i (01:05:52) roam y -32
+\i (01:05:52) roam y -32
+\i (01:05:52) roam y -32
+\i (01:05:52) roam x -16
+\i (01:05:52) roam y -16
+\i (01:05:52) roam x -16
+\i (01:05:52) roam y -16
+\i (01:05:52) roam y -16
+\i (01:05:53) roam y -32
+\i (01:05:53) roam y -16
+\i (01:05:53) roam y -16
+\i (01:05:53) roam y -32
+\i (01:05:53) roam y -16
+\i (01:05:53) roam y -16
+\i (01:05:53) roam y -16
+\i (01:05:53) roam y -32
+\i (01:05:53) roam end
+\i (01:06:03) color192 
+\i (01:06:03) setwindow cvf.dialog
+\i (01:06:03) cvf layer_mode
+\i (01:06:03) setwindow pcb
+\i (01:06:03) generaledit 
+\i (01:06:05) setwindow cvf.dialog
+\i (01:06:05) cvf layer_tree_item 'Board Geometry'
+\i (01:06:07) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:06:08) cvf layer_tree_item 'Manufacturing'
+\i (01:06:08) cvf layer_tree_item 'Drawing Format'
+\i (01:06:13) cvf cancel
+\i (01:06:14) setwindow pcb
+\i (01:06:14) pick grid -5.678 11.841
+\t (01:06:14) last pick:  -5.700 11.800
+\i (01:06:16) add connect 
+\t (01:06:16) Pick first element.
+\i (01:06:16) pick grid -15.592 18.264
+\t (01:06:16) last pick:  -15.875 18.415
+\t (01:06:16) last pick:  -15.875 18.415
+\i (01:06:17) prepopup 8.633 14.983
+\i (01:06:18) cancel 
+\i (01:06:18) generaledit 
+\i (01:06:20) add pin 
+\i (01:06:21) setwindow form.mini
+\i (01:06:21) FORM mini pad_browse  
+\i (01:06:28) fillin "Micro_Usb_Pin"
+\t (01:06:28) Using 'MICRO_USB_PIN.pad'.
+\i (01:06:35) setwindow pcb
+\i (01:06:35) pick grid 0.744 8.001
+\t (01:06:35) last pick:  0.635 8.255
+\t (01:06:35) Using 'MICRO_USB_PIN.pad'.
+\i (01:06:36) prepopup 4.235 7.932
+\i (01:06:36) oops 
+\t (01:06:36) Using 'MICRO_USB_PIN.pad'.
+\i (01:06:44) pick 0, 0.37 
+\t (01:06:44) last pick:  0.000 0.370
+\t (01:06:44) Using 'MICRO_USB_PIN.pad'.
+\i (01:06:46) pick 0, 0.37 
+\t (01:06:46) last pick:  0.000 0.370
+\t (01:06:46) Using 'MICRO_USB_PIN.pad'.
+\i (01:06:49) zoom in 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom in 0.046 -1.703
+\i (01:06:49) trapsize 175
+\i (01:06:49) zoom in 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom in 0.082 -1.668
+\i (01:06:49) trapsize 87
+\i (01:06:49) zoom in 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom in 1.321 -0.446
+\i (01:06:49) trapsize 44
+\i (01:06:54) prepopup -1.219 1.344
+\i (01:06:55) done 
+\t (01:06:55) Exiting from Add Pin.
+\i (01:06:55) generaledit 
+\i (01:06:56) pick grid -0.381 0.602
+\t (01:06:56) last pick:  -0.635 0.635
+\i (01:06:58) drag_start grid -1.323 1.954
+\i (01:06:58) drag_stop 0.728 -0.035
+\e (01:06:59) Command not found: Del
+\i (01:07:01) drag_start grid -0.424 0.933
+\i (01:07:01) drag_stop 0.187 -0.210
+\i (01:07:03) delete 
+\t (01:07:03) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\i (01:07:03) generaledit 
+\i (01:07:08) add pin 
+\t (01:07:08) Using 'MICRO_USB_PIN.pad'.
+\i (01:07:09) setwindow form.mini
+\i (01:07:09) FORM mini pad_browse  
+\i (01:07:13) fillin "Micro_Usb_Pin"
+\t (01:07:13) Using 'MICRO_USB_PIN.pad'.
+\i (01:07:22) setwindow pcb
+\i (01:07:22) pick 0, 0.37 
+\t (01:07:22) last pick:  0.000 0.370
+\t (01:07:22) Using 'MICRO_USB_PIN.pad'.
+\i (01:07:27) undo 
+\t (01:07:27) Exiting from Add Pin.
+\i (01:07:27) generaledit 
+\i (01:07:28) undo 
+\i (01:07:28) generaledit 
+\i (01:07:30) drag_start grid -2.659 1.850
+\i (01:07:30) drag_stop 1.470 -1.266
+\i (01:07:31) delete 
+\i (01:07:31) generaledit 
+\i (01:07:33) add pin 
+\t (01:07:33) Using 'MICRO_USB_PIN.pad'.
+\i (01:07:40) setwindow form.mini
+\i (01:07:40) FORM mini next_pin_number 1 
+\i (01:07:51) setwindow pcb
+\i (01:07:51) pick 0, 0.37 
+\t (01:07:51) last pick:  0.000 0.370
+\t (01:07:51) Using 'MICRO_USB_PIN.pad'.
+\i (01:07:54) prepopup 1.417 0.541
+\i (01:07:56) cancel 
+\t (01:07:56) Exiting from Add Pin.
+\i (01:07:56) generaledit 
+\i (01:08:00) trapsize 138
+\i (01:08:06) add pin 
+\t (01:08:06) Using 'MICRO_USB_PIN.pad'.
+\i (01:08:09) setwindow form.mini
+\i (01:08:09) FORM mini next_pin_number 1 
+\i (01:09:35) setwindow pcb
+\i (01:09:35) zoom in 1 
+\i (01:09:35) setwindow pcb
+\i (01:09:35) zoom in 0.893 7.378
+\i (01:09:35) trapsize 69
+\i (01:09:37) zoom in 1 
+\i (01:09:37) setwindow pcb
+\i (01:09:37) zoom in 0.894 7.378
+\i (01:09:37) trapsize 34
+\i (01:10:23) pick 0, 0.37 
+\t (01:10:23) last pick:  0.000 0.370
+\t (01:10:23) Using 'MICRO_USB_PIN.pad'.
+\i (01:10:26) zoom out 1 
+\i (01:10:26) setwindow pcb
+\i (01:10:26) zoom out 0.232 6.440
+\i (01:10:26) trapsize 69
+\i (01:10:26) zoom out 1 
+\i (01:10:26) setwindow pcb
+\i (01:10:26) zoom out 0.232 6.441
+\i (01:10:26) trapsize 138
+\i (01:10:27) zoom out 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom out 0.260 6.413
+\i (01:10:27) trapsize 276
+\i (01:10:27) zoom out 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom out 0.316 6.303
+\i (01:10:27) trapsize 552
+\i (01:10:27) zoom in 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom in 3.404 -3.403
+\i (01:10:27) trapsize 276
+\i (01:10:28) zoom in 1 
+\i (01:10:28) setwindow pcb
+\i (01:10:28) zoom in 3.404 -3.403
+\i (01:10:28) trapsize 138
+\i (01:10:29) zoom in 1 
+\i (01:10:29) setwindow pcb
+\i (01:10:29) zoom in 0.288 -2.465
+\i (01:10:29) trapsize 69
+\i (01:10:30) zoom out 1 
+\i (01:10:30) setwindow pcb
+\i (01:10:30) zoom out 0.426 -2.465
+\i (01:10:30) trapsize 138
+\i (01:10:34) prepopup 4.231 2.113
+\i (01:10:35) done 
+\t (01:10:35) Exiting from Add Pin.
+\i (01:10:35) generaledit 
+\i (01:10:41) trapsize 104
+\i (01:11:17) zoom in 1 
+\i (01:11:17) setwindow pcb
+\i (01:11:17) zoom in -0.545 -1.083
+\i (01:11:17) trapsize 52
+\i (01:11:17) zoom in 1 
+\i (01:11:17) setwindow pcb
+\i (01:11:17) zoom in -0.492 -0.938
+\i (01:11:17) trapsize 26
+\i (01:11:18) zoom out 1 
+\i (01:11:18) setwindow pcb
+\i (01:11:18) zoom out 0.333 -0.657
+\i (01:11:18) trapsize 52
+\i (01:12:28) drag_start grid -0.611 1.634
+\i (01:12:28) drag_stop 0.664 -0.990
+\e (01:12:29) Command not found: Del
+\i (01:12:31) delete 
+\i (01:12:31) generaledit 
+\i (01:12:32) add pin 
+\t (01:12:32) Using 'MICRO_USB_PIN.pad'.
+\i (01:12:37) setwindow form.mini
+\i (01:12:37) FORM mini next_pin_number 1 
+\i (01:12:46) setwindow pcb
+\i (01:12:46) pick 0, 0.37 
+\t (01:12:46) last pick:  0.000 0.370
+\t (01:12:46) Using 'MICRO_USB_PIN.pad'.
+\i (01:12:52) pick grid 1.473 0.307
+\t (01:12:52) last pick:  1.270 0.000
+\t (01:12:52) Using 'MICRO_USB_PIN.pad'.
+\i (01:12:53) pick grid 2.831 0.182
+\t (01:12:53) last pick:  2.540 0.000
+\t (01:12:53) Using 'MICRO_USB_PIN.pad'.
+\i (01:12:54) Esc 
+\w (01:12:54) WARNING(SPMHA1-314): Illegal event.
+\i (01:12:55) pick grid -0.995 2.080
+\t (01:12:55) last pick:  -1.270 1.905
+\t (01:12:55) Using 'MICRO_USB_PIN.pad'.
+\i (01:12:56) prepopup 0.612 2.204
+\i (01:12:58) cancel 
+\t (01:12:58) Exiting from Add Pin.
+\i (01:12:58) generaledit 
+\i (01:13:00) add pin 
+\t (01:13:00) Using 'MICRO_USB_PIN.pad'.
+\i (01:13:01) setwindow form.mini
+\i (01:13:01) FORM mini pad_browse  
+\i (01:13:32) fillin "Micro_Usb"
+\t (01:13:32) Using 'MICRO_USB.pad'.
+\i (01:13:37) setwindow pcb
+\i (01:13:37) prepopup 0.581 0.379
+\i (01:13:38) done 
+\t (01:13:38) Exiting from Add Pin.
+\i (01:13:38) generaledit 
+\i (01:13:45) pick grid -0.331 0.058
+\t (01:13:45) last pick:  -0.635 0.000
+\i (01:14:09) pick grid 3.122 0.296
+\t (01:14:09) last pick:  3.175 0.000
+\i (01:14:22) pick grid 3.350 0.918
+\t (01:14:22) last pick:  3.175 0.635
+\i (01:18:07) add pin 
+\t (01:18:07) Using 'MICRO_USB.pad'.
+\i (01:18:08) setwindow form.mini
+\i (01:18:08) FORM mini pad_browse  
+\i (01:18:13) fillin "Micro_Usb_Pin"
+\t (01:18:13) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:26) setwindow pcb
+\i (01:18:26) pick 0, 0.37 
+\t (01:18:26) last pick:  0.000 0.370
+\t (01:18:26) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:35) pick grid 0.747 -0.316
+\t (01:18:35) last pick:  0.635 0.000
+\t (01:18:35) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:36) pick grid 0.954 0.265
+\t (01:18:36) last pick:  1.270 0.000
+\t (01:18:36) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:36) pick grid 1.639 0.203
+\t (01:18:36) last pick:  1.905 0.000
+\t (01:18:36) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:37) pick grid 2.282 0.130
+\t (01:18:37) last pick:  2.540 0.000
+\t (01:18:37) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:37) pick grid 2.914 0.047
+\t (01:18:37) last pick:  3.175 0.000
+\t (01:18:37) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:39) prepopup -0.808 1.437
+\i (01:18:40) pick grid 0.550 -1.539
+\t (01:18:40) last pick:  0.635 -1.270
+\t (01:18:40) Using 'MICRO_USB_PIN.pad'.
+\i (01:18:44) delete 
+\t (01:18:44) Exiting from Add Pin.
+\i (01:18:45) drag_start grid -0.798 1.623
+\i (01:18:45) drag_stop 3.153 -2.752
+\i (01:18:47) delete 
+\i (01:19:08) trapsize 55
+\i (01:19:12) exit 
+\e (01:19:12) Do you want to save the changes you made to micro_usb.dra?
+\i (01:19:14) fillin no 
+\t (01:19:14)     Journal end - Thu Jul 18 12:40:45 2019

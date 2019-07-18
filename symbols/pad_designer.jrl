@@ -1,0 +1,69 @@
+\t (00:53:36) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:53:36)     Journal start - Thu Jul 18 13:40:41 2019
+\t (00:53:36)         Host=USER-PC User=user Pid=4280 CPUs=4
+\t (00:53:36) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\pad_designer.exe
+\t (00:53:36) 
+\i (00:53:47) pse_open 
+\i (00:53:53) fillin "micro_usb.pad"
+\i (00:53:57) FORM padedit crossbox YES 
+\i (00:53:59) pse_open 
+\i (00:54:03) fillin "micro_usb_gnd.pad"
+\i (00:54:04) FORM padedit stackbox YES 
+\i (00:54:04) FORM padedit crossbox YES 
+\i (00:54:06) FORM padedit parameters  
+\i (00:54:07) FORM padedit layers  
+\i (00:54:13) FORM padedit parameters  
+\i (00:54:15) FORM padedit layers  
+\i (00:54:28) FORM padedit grid rpopup begin_layer Paste 
+\e (00:54:28) No layer was selected to paste.
+\i (00:54:31) FORM padedit grid rpopup begin_layer Copy 
+\i (00:54:33) FORM padedit grid rpopup soldermask_top Copy 
+\i (00:54:36) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:54:38) FORM padedit grid rpopup begin_layer Copy 
+\i (00:54:40) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:54:43) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:54:45) pse_save 
+\i (00:54:47) fillin yes 
+\i (00:57:15) FORM padedit parameters  
+\i (00:57:17) pse_new 
+\i (00:57:22) fillin "menu_cancel"
+\i (00:57:28) pse_open 
+\i (00:57:31) fillin "micro_usb_gnd.pad"
+\i (00:57:32) FORM padedit layers  
+\i (00:57:33) FORM padedit parameters  
+\i (00:57:34) FORM padedit layers  
+\i (00:57:36) pse_open 
+\i (00:57:40) fillin "micro_usb.pad"
+\i (00:57:42) FORM padedit parameters  
+\i (00:57:42) FORM padedit layers  
+\i (00:57:54) FORM padedit parameters  
+\i (00:58:05) FORM padedit hole_type Oval Slot 
+\i (00:58:10) FORM padedit hole_size_x 0.5 
+\i (00:58:13) FORM padedit hole_size_y 1.4 
+\i (00:58:13) FORM padedit layers  
+\i (00:58:19) FORM padedit single NO 
+\i (00:58:24) FORM padedit geometry Oblong 
+\i (00:58:27) FORM padedit width 1.2 
+\i (00:58:34) FORM padedit grid row begin_layer 
+\i (00:58:39) FORM padedit height 1.9 
+\i (00:58:44) FORM padedit grid rpopup begin_layer Copy 
+\i (00:58:52) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:58:53) setwindow form.padcopy
+\i (00:58:53) FORM padcopy pse_copy_soldermask YES 
+\i (00:58:53) FORM padcopy pse_copy_pastemask YES 
+\i (00:58:54) FORM padcopy pse_copy_done  
+\i (00:58:58) setwindow form.padedit
+\i (00:58:58) FORM padedit grid row pastemask_top 
+\i (00:59:00) FORM padedit geometry Null 
+\i (00:59:00) FORM padedit grid row pastemask_bottom 
+\i (00:59:02) FORM padedit geometry Null 
+\i (00:59:05) pse_save 
+\i (00:59:06) fillin yes 
+\i (00:59:16) pse_open 
+\i (00:59:20) fillin "micro_usb_pin.pad"
+\i (00:59:44) FORM padedit parameters  
+\i (00:59:54) FORM padedit layers  
+\i (01:00:04) pse_save_as 
+\i (01:00:06) fillin "menu_cancel"
+\i (01:00:09) pse_exit
+\t (01:00:09)     Journal end - Thu Jul 18 13:47:14 2019
