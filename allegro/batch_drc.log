@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : AVRUSB500.brd                                 )
+(    Drawing          : AVRUSB500_2.brd                               )
 (    Software Version : 16.6S034                                      )
-(    Date/Time        : Thu Jul 18 16:41:29 2019                      )
+(    Date/Time        : Fri Jul 19 12:39:54 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,10 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  13
+ ..... Total number of DRC errors  0
+
+
+WARNING: 1 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
