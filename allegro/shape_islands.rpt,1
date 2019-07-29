@@ -3,8 +3,8 @@
 (    Shape Island Report                                              )
 (                                                                     )
 (    Drawing          : AVRUSB500_2.brd                               )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 12:31:27 2019                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 15:56:03 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -15,10 +15,8 @@
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (479.5984 267.5236)  Net: +5V
-	Point on shape: (488.7103 267.9212)  Net: GND
-	Point on shape: (483.6870 285.4272)  Net: GND
-	Point on shape: (494.0100 287.8786)  Net: GND
-
-    Layer = BOTTOM
-	Point on shape: (483.8370 279.7542)  Net: GND
+	Point on shape: (483.8240 271.8909)  Net: GND
+	Point on shape: (482.0017 283.2466)  Net: GND
+	Point on shape: (475.8621 283.2932)  Net: GND
+	Point on shape: (484.0739 258.2478)  Net: GND
+	Point on shape: (469.2696 284.7000)  Net: GND

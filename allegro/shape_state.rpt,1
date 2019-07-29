@@ -1,23 +1,19 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Dynamic Shape Status                                             )
+(    Shape Dynamic Status Report                                      )
 (                                                                     )
 (    Drawing          : AVRUSB500_2.brd                               )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 12:37:20 2019                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 15:58:55 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Dynamic shapes out of date: 3 out of 3
+  Dynamic shapes out of date: 1 out of 3
   Current fill mode         : SMOOTH
 
 
   <<<  ETCH  >>>
 
     Layer = TOP
-       State: Out of date  Point on shape: (479.4250 276.8600)  Net: +5V
-       State: Out of date  Point on shape: (441.7851 257.0001)  Net: GND
-
-    Layer = BOTTOM
        State: Out of date  Point on shape: (441.7851 257.0001)  Net: GND

@@ -3,16 +3,11 @@
 (    ARTWORK LOG                                                      )
 (                                                                     )
 (    Drawing          : AVRUSB500_2.brd                               )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 14:13:19 2019                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 29 16:41:02 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
-
-
- ******************************************
- WARNING: DRC OUT OF DATE on this layout.
- ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -29,6 +24,7 @@ Results from parameter file ...
     SUPPRESS-TRAIL-ZEROES NO
     SUPPRESS-EQUAL        YES
     UNDEF-APT-CONT        NO
+
 
 
 ================================================================
@@ -56,11 +52,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     1.32110                                  DARK 
   CIRCLE     1.57510                                  DARK 
+  CIRCLE     3.68300                                  DARK 
   SQUARE     1.32110                     0.000 NO     DARK 
   SQUARE     1.57510                     0.000 NO     DARK 
   OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
 
-     SolderB created with warnings
+     SolderB created.
 
 
 ================================================================
@@ -83,7 +80,7 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     MetalB created with warnings
+     MetalB created.
 
 
 ================================================================
@@ -113,10 +110,12 @@ Results from parameter file ...
   RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860       0.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860      90.000 NO     DARK 
   OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
   OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
 
-     MetalT created with warnings
+     MetalT created.
 
 
 ================================================================
@@ -145,17 +144,20 @@ Results from parameter file ...
   CIRCLE     1.11800                                  DARK 
   CIRCLE     1.32110                                  DARK 
   CIRCLE     1.57510                                  DARK 
+  CIRCLE     3.68300                                  DARK 
   SQUARE     1.32110                     0.000 NO     DARK 
   SQUARE     1.57510                     0.000 NO     DARK 
   RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
   RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860       0.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860      90.000 NO     DARK 
   OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
   OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
   OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
 
-     SolderT created with warnings
+     SolderT created.
 
 
 ================================================================
@@ -178,7 +180,7 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     Silkb created with warnings
+     Silkb created.
 
 
 ================================================================
@@ -198,7 +200,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text composed 0 width line found at (443.6310 260.2780)
+    WARNING: text composed 0 width line found at (447.4800 271.8000)
            ... using undefined line width of 0.2000
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
@@ -210,6 +212,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.20300                                  DARK 
   CIRCLE     0.25400                                  DARK 
@@ -241,6 +244,12 @@ Results from parameter file ...
     WARNING: more than one pin class in film record
     WARNING: more than one via class in film record
     WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (443.2300 274.3200).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (447.4972 274.3200).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (443.8650 283.2100).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (448.1322 283.2100).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (448.9450 291.4650).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (453.2122 291.4650).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (461.2480 281.7520).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (462.0480 281.7520).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (462.8480 281.7520).
@@ -259,6 +268,10 @@ Results from parameter file ...
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (462.8480 290.2480).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (462.0480 290.2480).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (461.2480 290.2480).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (473.7100 264.1600).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (467.3600 267.3350).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (467.3600 263.0678).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (473.7100 268.4272).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (465.2480 281.7520).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (466.0480 281.7520).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (466.8480 281.7520).
@@ -273,6 +286,14 @@ Results from parameter file ...
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (466.8480 290.2480).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (466.0480 290.2480).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (465.2480 290.2480).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (477.5200 279.4000).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (476.2500 288.9250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (480.5172 288.9250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (476.8850 284.4800).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (476.2500 293.3700).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (480.5172 293.3700).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (483.2350 259.7150).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (487.5022 259.7150).
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (485.1000 267.9000).
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (485.1000 272.5000).
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_PIN at (485.1000 270.8500).
@@ -280,6 +301,16 @@ Results from parameter file ...
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_PIN at (485.1000 268.9000).
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_PIN at (485.1000 269.5500).
     WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_PIN at (485.1000 270.2000).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (481.7872 279.4000).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (481.1522 284.4800).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (491.4900 267.3350).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (495.7572 267.3350).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (494.0300 260.9850).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (491.4900 271.7800).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (495.7572 271.7800).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (491.4900 276.2250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (495.7572 276.2250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (498.2972 260.9850).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (508.6350 266.1790).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (510.0830 264.7320).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (508.6350 271.7800).
@@ -290,6 +321,10 @@ Results from parameter file ...
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (508.6350 267.7800).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (508.6350 266.9790).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (510.0830 273.2280).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (505.4600 285.7500).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (509.7272 285.7500).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (504.8250 293.3700).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (509.0922 293.3700).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (510.8830 264.7320).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (511.6830 264.7320).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (512.4830 264.7320).
@@ -312,6 +347,18 @@ Results from parameter file ...
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (512.4830 273.2280).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (511.6830 273.2280).
     WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (510.8830 273.2280).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (528.9550 263.5250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (533.2222 263.5250).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (528.9550 273.0500).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (533.2222 273.0500).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (528.9550 268.6050).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (533.2222 268.6050).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (528.9550 277.4950).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (533.2222 277.4950).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (528.3200 288.2900).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (530.4028 284.4800).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD23_1 at (528.3200 292.5572).
+    WARNING: Null REGULAR-PAD specified for padstack SM_LLB_PAD22_1 at (534.6700 284.4800).
 
 
   APERTURES USED:
@@ -319,10 +366,12 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
   CIRCLE     0.20300                                  DARK 
   CIRCLE     0.25400                                  DARK 
   CIRCLE     0.38100                                  DARK 
   CIRCLE     0.61000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
   CIRCLE     1.32110                                  DARK 
   CIRCLE     1.57510                                  DARK 
   SQUARE     1.32110                     0.000 NO     DARK 
@@ -331,6 +380,8 @@ Results from parameter file ...
   RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860       0.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860      90.000 NO     DARK 
   OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
   OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
   OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
@@ -364,13 +415,14 @@ Results from parameter file ...
   CIRCLE     0.25400                                  DARK 
   CIRCLE     0.38100                                  DARK 
   CIRCLE     0.61000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
   CIRCLE     1.32110                                  DARK 
   CIRCLE     1.57510                                  DARK 
   SQUARE     1.32110                     0.000 NO     DARK 
   SQUARE     1.57510                     0.000 NO     DARK 
   OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
@@ -399,6 +451,7 @@ Results from parameter file ...
   CIRCLE     0.25400                                  DARK 
   CIRCLE     0.38100                                  DARK 
   CIRCLE     0.61000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
   CIRCLE     1.32110                                  DARK 
   CIRCLE     1.57510                                  DARK 
   SQUARE     1.32110                     0.000 NO     DARK 
@@ -407,11 +460,13 @@ Results from parameter file ...
   RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
   RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860       0.000 NO     DARK 
+  RECTANGLE  2.84480     x 1.49860      90.000 NO     DARK 
   OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
   OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
   OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -436,11 +491,11 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
   CIRCLE     0.20300                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
-     silktop created with warnings
+     silktop created.
 
 
 ================================================================
@@ -467,7 +522,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.20000                                  DARK 
 
-     silkbot created with warnings
+     silkbot created.
 
 
 ================================================================
@@ -489,10 +544,10 @@ Results from parameter file ...
     WARNING: rectangle or unfilled shape composed 0 width line found at (439.4200 254.0000)
            ... ignored.
 
-    WARNING: 0 width line found at (440.0000 303.5402)
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
            ... ignored.
 
-    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+    WARNING: 0 width line found at (563.6000 258.9300)
            ... ignored.
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -506,17 +561,17 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        SolderB created with warnings
-        MetalB created with warnings
-        MetalT created with warnings
-        SolderT created with warnings
-        Silkb created with warnings
+        SolderB created.
+        MetalB created.
+        MetalT created.
+        SolderT created.
+        Silkb created.
         Silkt created with warnings
         Design created with warnings
-        BOTTOM created with warnings
-        TOP created with warnings
-        silktop created with warnings
-        silkbot created with warnings
+        BOTTOM created.
+        TOP created.
+        silktop created.
+        silkbot created.
         DrillDraw created with warnings
 
  ARTWORK had warnings

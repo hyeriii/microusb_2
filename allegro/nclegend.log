@@ -3,15 +3,20 @@
 (    DRILL LEGEND                                                     )
 (                                                                     )
 (    Drawing          : AVRUSB500_2.brd                               )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 12:28:15 2019                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 14:58:24 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Begin processing of drill legend template file 'C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/text/nclegend/default-mm.dlt' ...
-WARNING(SPMHSK-41): Title Text Block number is greater than Max Text Block(4) ... assuming 1.
-WARNING(SPMHSK-41): Column Title Text Block number is greater than Max Text Block(4) ... assuming 1.
-WARNING(SPMHSK-41): Data Text Block number is greater than Max Text Block(4) ... assuming 1.
+Begin processing of drill legend template file 'C:/Cadence/SPB_17.2/share/pcb/text/nclegend/default-mm.dlt' ...
+WARNING(SPMHSK-41): Title Text Block number is greater than Max Text Block(6) ... assuming 1.
+WARNING(SPMHSK-41): Column Title Text Block number is greater than Max Text Block(6) ... assuming 1.
+WARNING(SPMHSK-41): Data Text Block number is greater than Max Text Block(6) ... assuming 1.
+WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
+WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
 End of drill legend template file processing.
-Drill Legend command cancelled.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.
